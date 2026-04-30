@@ -76,3 +76,14 @@ AULauncher/
 >   - `launcher.log`
 
 ---
+
+## Credits
+- [Avalonia UI](https://github.com/avaloniaui/Avalonia): **The framework used by the launcher**
+- [Daemon](https://github.com/DaemonBeast): **Author of the Among Us version detection code**
+
+- ---
+
+### 📜 License
+
+This project is licensed under the **GNU General Public License v3.0**.  
+For more information, see the [LICENSE](./LICENSE) file.
