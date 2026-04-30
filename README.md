@@ -12,6 +12,15 @@
 
 ---
 
+### 📸 Preview
+
+> A look at the AULauncher:
+
+![Main Screen](img/home.jpg)
+![Mods Tab](img/mods.jpg)
+
+---
+
 ## 🛠️ How to Use
 
 1. **Download** the latest version of the launcher from the [Latest](https://github.com/k3razz/AULauncher/releases/latest) page
