@@ -17,6 +17,7 @@
 > A look at the AULauncher:
 
 ![Main Screen](img/home.jpg)
+
 ![Mods Tab](img/mods.jpg)
 
 ---
