@@ -1,3 +1,5 @@
+# PROJECT ARCHIVED
+This project is no longer being worked on.
 # 🚀 Among Us Launcher
 
 ---
